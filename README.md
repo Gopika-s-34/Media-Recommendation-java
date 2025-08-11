@@ -1,6 +1,4 @@
-## ** Movie/Book Recommendation CLI — README.md**
-
-# Movie/Book Recommendation Tracker
+# Movie/Book Recommendation Tracker using Java
 
 A **Command Line Interface (CLI)** tool to keep track of your favorite movies and books.  
 You can add media items, rate them, mark them as completed, and store your data in a CSV file.
